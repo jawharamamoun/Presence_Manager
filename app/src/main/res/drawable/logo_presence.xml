@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="110dp"
+    android:height="110dp"
+    android:viewportWidth="110"
+    android:viewportHeight="110">
+
+    <!-- Fond vert -->
+    <path
+        android:fillColor="#3D8B4F"
+        android:pathData="M55,55m-55,0a55,55 0,1 1,110 0a55,55 0,1 1,-110 0" />
+
+    <!-- Tête -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,42m-13,0a13,13 0,1 1,26 0a13,13 0,1 1,-26 0" />
+
+    <!-- Corps -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M24,84C24,67 35,60 48,60C61,60 72,67 72,84Z" />
+
+    <!-- Badge -->
+    <path
+        android:fillColor="#E8F5E9"
+        android:pathData="M82,38m-14,0a14,14 0,1 1,28 0a14,14 0,1 1,-28 0" />
+
+    <!-- Coche -->
+    <path
+        android:strokeColor="#3D8B4F"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M75,38L80,43L89,32" />
+</vector>

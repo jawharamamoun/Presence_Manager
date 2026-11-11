@@ -3,13 +3,13 @@ plugins {
 }
 
 android {
-    namespace = "com.douae.presencemanager"
+    namespace = "com.jawhara.PresenceManager"
     compileSdk {
         version = release(37)
     }
 
     defaultConfig {
-        applicationId = "com.douae.presencemanager"
+        applicationId = "com.jawhara.PresenceManager"
         minSdk = 24
         targetSdk = 37
         versionCode = 1

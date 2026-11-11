@@ -1,4 +1,4 @@
-package com.douae.presencemanager
+package com.jawhara.PresenceManager
 
 import org.junit.Test
 
